@@ -28,9 +28,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://twitter.com/YOUR-TWITTER" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
-</a>
+
 </p>
 
 ---
